@@ -75,6 +75,6 @@ The Smart Toll Gate System enables real-time toll collection, vehicle speed moni
 
 ## Experimental Setup
 
-
+![System photo of Smart Toll Gate](https://github.com/Ismail-Sadaqat/Smart-Toll-Gate-System/blob/c65a625e8f39cf58ec64ec8c63c3f320712d8929/Experimental%20Setup/System%20photo%20of%20Smart%20Toll%20Gate.png)
 
 
