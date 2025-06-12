@@ -7,6 +7,8 @@ An IoT-enabled smart toll gate system using Raspberry Pi, RFID sensors, and a Fl
 - **Muhammad Ismail Sadaqat**
 - **Dwayne Fonseca**
 
+---
+
 ## Project Overview
 
 The Smart Toll Gate System enables real-time toll collection, vehicle speed monitoring, and balance verification using RFID technology. It integrates hardware sensors with a Raspberry Pi and sends data to a cloud dashboard via ThingSpeak, while also offering an API via Flask for real-time monitoring.
@@ -22,6 +24,9 @@ The Smart Toll Gate System enables real-time toll collection, vehicle speed moni
 - **LCD display + buzzer alerts**
 - **User keypad interface for balance inquiry/recharge**
 - **DHT11 for temperature/humidity readings**
+
+
+---
 
 ## System Architecture
 
@@ -72,6 +77,7 @@ The Smart Toll Gate System enables real-time toll collection, vehicle speed moni
 | Potentiometer  | Simulated speed control           |
 | Pi Camera      | Image/video capture               |
 
+---
 
 ## Experimental Setup
 
