@@ -52,12 +52,12 @@ The Smart Toll Gate System enables real-time toll collection, vehicle speed moni
 <table>
   <tr>
     <td align="center" style="padding: 15px;">
-      <img src="[YOUR_IMAGE_1_URL.png?raw=true](https://github.com/Ismail-Sadaqat/Smart-Toll-Gate-System/blob/b481221d50a3c54539407ac0c028a07773ec220c/Hardware-and-Software-Diagrams/Flowchart%20for%20first%20half%20of%20main%20program%20loop.png?raw=true)" alt="Software Flowchart Part 1" height = "500">
+      <img src="https://github.com/Ismail-Sadaqat/Smart-Toll-Gate-System/blob/b481221d50a3c54539407ac0c028a07773ec220c/Hardware-and-Software-Diagrams/Flowchart%20for%20first%20half%20of%20main%20program%20loop.png?raw=true" alt="Software Flowchart Part 1" height = "500">
       <br>
       *Software Flowchart Part 1*
     </td>
     <td align="center" style="padding: 15px;">
-      <img src="[YOUR_IMAGE_2_URL.png?raw=true](https://github.com/Ismail-Sadaqat/Smart-Toll-Gate-System/blob/b481221d50a3c54539407ac0c028a07773ec220c/Hardware-and-Software-Diagrams/Flowchart%20of%20second%20half%20of%20main%20program%20loop.png)" alt="Software Flowchart Part 2" height = "500">
+      <img src="https://github.com/Ismail-Sadaqat/Smart-Toll-Gate-System/blob/b481221d50a3c54539407ac0c028a07773ec220c/Hardware-and-Software-Diagrams/Flowchart%20of%20second%20half%20of%20main%20program%20loop.png" alt="Software Flowchart Part 2" height = "500">
       <br>
       *Software Flowchart Part 2*
     </td>
