@@ -46,7 +46,7 @@ The Smart Toll Gate System enables real-time toll collection, vehicle speed moni
 ### Software Flowchart
 <div style="display: flex; justify-content: center; align-items: flex-start;">
   <img src="https://github.com/Ismail-Sadaqat/Smart-Toll-Gate-System/blob/b481221d50a3c54539407ac0c028a07773ec220c/Hardware-and-Software-Diagrams/Flowchart%20for%20first%20half%20of%20main%20program%20loop.png?raw=true" alt="Software Flowchart Part 1" width="400" style="margin-right: 10px;">
-  <img src="[YOUR_SECOND_IMAGE_URL.png?raw=true](https://github.com/Ismail-Sadaqat/Smart-Toll-Gate-System/blob/b481221d50a3c54539407ac0c028a07773ec220c/Hardware-and-Software-Diagrams/Flowchart%20for%20first%20half%20of%20main%20program%20loop.png)" alt="Software Flowchart Part 2" width="400">
+  <img src="https://github.com/Ismail-Sadaqat/Smart-Toll-Gate-System/blob/b481221d50a3c54539407ac0c028a07773ec220c/Hardware-and-Software-Diagrams/Flowchart%20for%20first%20half%20of%20main%20program%20loop.png" alt="Software Flowchart Part 2" width="400">
 </div>
 
 
