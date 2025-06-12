@@ -23,21 +23,6 @@ The Smart Toll Gate System enables real-time toll collection, vehicle speed moni
 - **User keypad interface for balance inquiry/recharge**
 - **DHT11 for temperature/humidity readings**
 
-## Hardware Components
-
-| Component       | Description                       |
-|----------------|-----------------------------------|
-| Raspberry Pi   | Central controller                |
-| RFID Reader    | Vehicle ID input                  |
-| IR Sensor      | Car detection                     |
-| Ultrasonic Sensor (HC-SR04) | Distance sensing      |
-| LCD1602        | Display messages                  |
-| Buzzer         | Sound alerts                      |
-| Push Button    | Manual control input              |
-| DHT11          | Temperature and humidity sensor   |
-| Potentiometer  | Simulated speed control           |
-| Pi Camera      | Image/video capture               |
-
 ## System Architecture
 
 ### Hardware Block Diagram
@@ -71,4 +56,24 @@ The Smart Toll Gate System enables real-time toll collection, vehicle speed moni
     </td>
   </tr>
 </table>
+
+## Hardware Components
+
+| Component       | Description                       |
+|----------------|-----------------------------------|
+| Raspberry Pi   | Central controller                |
+| RFID Reader    | Vehicle ID input                  |
+| IR Sensor      | Car detection                     |
+| Ultrasonic Sensor (HC-SR04) | Distance sensing      |
+| LCD1602        | Display messages                  |
+| Buzzer         | Sound alerts                      |
+| Push Button    | Manual control input              |
+| DHT11          | Temperature and humidity sensor   |
+| Potentiometer  | Simulated speed control           |
+| Pi Camera      | Image/video capture               |
+
+
+
+
+
 
