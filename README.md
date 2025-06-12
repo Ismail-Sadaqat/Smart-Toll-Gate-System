@@ -73,6 +73,7 @@ The Smart Toll Gate System enables real-time toll collection, vehicle speed moni
 | Pi Camera      | Image/video capture               |
 
 
+## Experimental Setup
 
 
 
