@@ -44,34 +44,30 @@ The Smart Toll Gate System enables real-time toll collection, vehicle speed moni
 ![Hardware Block Diagram](https://github.com/Ismail-Sadaqat/Smart-Toll-Gate-System/blob/b481221d50a3c54539407ac0c028a07773ec220c/Hardware-and-Software-Diagrams/Hardware%20diagram%20of%20Smart%20Toll%20Gate.png)
 
 ### Software Flowchart
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 50;">
-  <img src="https://github.com/Ismail-Sadaqat/Smart-Toll-Gate-System/blob/b481221d50a3c54539407ac0c028a07773ec220c/Hardware-and-Software-Diagrams/Flowchart%20for%20first%20half%20of%20main%20program%20loop.png?raw=true" alt="Software Flowchart Part 1" height = "500">
-  <img src="https://github.com/Ismail-Sadaqat/Smart-Toll-Gate-System/blob/b481221d50a3c54539407ac0c028a07773ec220c/Hardware-and-Software-Diagrams/Flowchart%20of%20second%20half%20of%20main%20program%20loop.png" alt="Software Flowchart Part 2" height = "500">
-</div>
 
 <table>
   <tr>
     <td align="center" style="padding: 15px;">
       <img src="https://github.com/Ismail-Sadaqat/Smart-Toll-Gate-System/blob/b481221d50a3c54539407ac0c028a07773ec220c/Hardware-and-Software-Diagrams/Flowchart%20for%20first%20half%20of%20main%20program%20loop.png?raw=true" alt="Software Flowchart Part 1" height = "500">
       <br>
-      *Software Flowchart Part 1*
+      Software Flowchart Part 1
     </td>
     <td align="center" style="padding: 15px;">
       <img src="https://github.com/Ismail-Sadaqat/Smart-Toll-Gate-System/blob/b481221d50a3c54539407ac0c028a07773ec220c/Hardware-and-Software-Diagrams/Flowchart%20of%20second%20half%20of%20main%20program%20loop.png" alt="Software Flowchart Part 2" height = "500">
       <br>
-      *Software Flowchart Part 2*
+      Software Flowchart Part 2
     </td>
   </tr>
   <tr>
     <td align="center" style="padding: 15px;">
       <img src="https://github.com/Ismail-Sadaqat/Smart-Toll-Gate-System/blob/95074aacdafcf5330fd207e8c60dd10276eaef57/Hardware-and-Software-Diagrams/Flowchart%20for%20first%20half%20of%20main%20program%20loop.png" alt="First interrupt when the button is pressed" height = "500">
       <br>
-      *First interrupt when the button is pressed*
+      First interrupt when the button is pressed
     </td>
     <td align="center" style="padding: 15px;">
       <img src="https://github.com/Ismail-Sadaqat/Smart-Toll-Gate-System/blob/95074aacdafcf5330fd207e8c60dd10276eaef57/Hardware-and-Software-Diagrams/Flowchart%20for%20first%20interrupt%20when%20the%20button%20is%20pressed.png" alt="Second interrupt when infrared detects motion" height = "500">
       <br>
-      *Second interrupt when infrared detects motion*
+      Second interrupt when infrared detects motion
     </td>
   </tr>
 </table>
