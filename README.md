@@ -38,3 +38,11 @@ The Smart Toll Gate System enables real-time toll collection, vehicle speed moni
 | Potentiometer  | Simulated speed control           |
 | Pi Camera      | Image/video capture               |
 
+## System Architecture
+
+### Hardware Block Diagram
+![Hardware Block Diagram](./)
+
+### Software Flowchart
+![Software Flowchart](./)
+
