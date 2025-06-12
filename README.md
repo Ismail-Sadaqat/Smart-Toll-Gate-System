@@ -41,9 +41,9 @@ The Smart Toll Gate System enables real-time toll collection, vehicle speed moni
 ## System Architecture
 
 ### Hardware Block Diagram
-![Hardware Block Diagram](./Hardware-and-Software-Diagrams/Hardware diagram of Smart Toll Gate.png)
+![Hardware Block Diagram](Hardware-and-Software-Diagrams/Hardware diagram of Smart Toll Gate.png)
 
 ### Software Flowchart
-![Software Flowchart](./Hardware-and-Software-Diagrams/Flowchart for first half of main program loop.png)
+![Software Flowchart](Hardware-and-Software-Diagrams/Flowchart for first half of main program loop.png)
 
 
