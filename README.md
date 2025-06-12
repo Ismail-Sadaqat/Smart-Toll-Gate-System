@@ -13,27 +13,27 @@ An IoT-enabled smart toll gate system using Raspberry Pi, RFID sensors, and a Fl
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The **Smart Toll Gate System** enables real-time toll collection, vehicle speed monitoring, and balance verification using RFID technology. It integrates hardware sensors with a Raspberry Pi and sends data to a cloud dashboard via **ThingSpeak**, while also offering an API via **Flask** for real-time monitoring.
 
 ---
 
-## 🛠️ Features
+## Features
 
-- ✅ **RFID-based identification**
-- ✅ **Balance deduction and alert system**
-- ✅ **Speed monitoring using ADC and IR sensors**
-- ✅ **Automatic photo/video capture for violations**
-- ✅ **Live data upload to ThingSpeak**
-- ✅ **Flask-based API for real-time monitoring**
-- ✅ **LCD display + buzzer alerts**
-- ✅ **User keypad interface for balance inquiry/recharge**
-- ✅ **DHT11 for temperature/humidity readings**
+- **RFID-based identification**
+- **Balance deduction and alert system**
+- **Speed monitoring using ADC and IR sensors**
+- **Automatic photo/video capture for violations**
+- **Live data upload to ThingSpeak**
+- **Flask-based API for real-time monitoring**
+- **LCD display + buzzer alerts**
+- **User keypad interface for balance inquiry/recharge**
+- **DHT11 for temperature/humidity readings**
 
 ---
 
-## 🔩 Hardware Components
+## Hardware Components
 
 | Component       | Description                       |
 |----------------|-----------------------------------|
